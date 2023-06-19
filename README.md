@@ -1,47 +1,47 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="300" align="right" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <h3 align="center">
-  Welcome to Yousef Dergham's profile!
+  
+  Welcome to Emad Tamer's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 I'm a Flutter Developer and interested in Machine Learning and Deep learning
+- 🏢 I'm a graduated from "Medical Infromatics" department of FCI-ZU.
+- 💬 Ask me about my experience Dart, Flutter, Machine Learning and Deep Learning, or anything related.
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%D8%B9%D9%85%D8%A7%D8%AF-%D8%AA%D8%A7%D9%85%D8%B1-416673203/" target="_blank"><img src="https://img.shields.io/badge/-Emad Tamer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/MALEK06" target="_blank"><img src="https://img.shields.io/badge/-Emad Tamer-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+
+<!-- ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+</a> -->
