@@ -12,9 +12,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Cybersecurity%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 I'm an AI Cybersecurity Engineer and interested in SOC Analysis, Machine Learning and Deep learning
-- 🏢 I'm a graduated from "Medical Infromatics" department of FCI-ZU.
-- 💬 Ask me about my experience CCNA, Network Security, Ethical Hacking, Cyber Ops, Machine Learning and Deep Learning Algorithms.
+- 👨‍💻 I'm an AI Cybersecurity Engineer and interested in Network Security, Machine Learning, and Deep learning
+- 🏢 I graduated from the "Medical Informatics" department of FCI-ZU.
+- 💬 Ask me about my experience with CCNA, Network Security, Ethical Hacking, Cyber Ops, Machine Learning, and Deep Learning Algorithms.
 
 
 ### Connect with Me :
